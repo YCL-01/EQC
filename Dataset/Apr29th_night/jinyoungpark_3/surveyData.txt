@@ -1,0 +1,6 @@
+Age: 30–39
+Sex: Female
+Rating: 4.0
+Resolution: 720
+Video: dynamic_1
+DisplaySize: 1080 x 2186

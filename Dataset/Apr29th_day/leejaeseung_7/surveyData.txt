@@ -1,0 +1,6 @@
+Age: 30–39
+Sex: Male
+Rating: 5.0
+Resolution: 1080
+Video: dynamic_0
+DisplaySize: 1440 x 2392

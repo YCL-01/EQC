@@ -1,0 +1,6 @@
+Age: 20–29
+Sex: Male
+Rating: 5.0
+Resolution: 480
+Video: static_4
+DisplaySize: 1080 x 2050

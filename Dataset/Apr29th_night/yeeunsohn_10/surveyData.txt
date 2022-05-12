@@ -1,0 +1,6 @@
+Age: 20–29
+Sex: Female
+Rating: 1.0
+Resolution: 240
+Video: static_4
+DisplaySize: 1080 x 2168
